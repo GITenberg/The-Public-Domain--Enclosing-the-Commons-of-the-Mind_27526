@@ -1,0 +1,31 @@
+_repo: The-Public-Domain--Enclosing-the-Commons-of-the-Mind_27526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boyle, James
+    alias: Boyle, Jamie
+    birthdate: 1959
+    gutenberg_agent_id: '32743'
+    url: http://www.gutenberg.org/2009/agents/32743
+description: ''
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27526'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Intellectual property'
+- !lcc 'K'
+- !lcsh 'Public domain (Copyright law)'
+tableOfContents: 'Why intellectual property? -- Thomas Jefferson writes a letter --
+  The second enclosure movement -- The Internet threat -- The farmer''s tale: an allegory
+  -- I got a mashup -- The enclosure of science and technology: two case studies --
+  A creative commons -- An evidence-free zone -- An environmentalism for information.'
+title: 'The Public Domain: Enclosing the Commons of the Mind'
+url: http://www.gutenberg.org/ebooks/27526
